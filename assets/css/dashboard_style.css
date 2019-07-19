@@ -24,6 +24,12 @@
         color: #fff;
     }
 
+    .btn-gold {
+        background-color: #eed996;
+        color:  #131d30;
+        font-weight: bold;
+    }
+
     #proof h3 {
         color: #fff;
     }
